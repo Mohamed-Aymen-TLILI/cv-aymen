@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cv-aymen/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cv-aymen/static/js/main.ba827ee8.chunk.js",
+    "main.js.map": "/cv-aymen/static/js/main.ba827ee8.chunk.js.map",
+    "runtime-main.js": "/cv-aymen/static/js/runtime-main.e85fbf6e.js",
+    "runtime-main.js.map": "/cv-aymen/static/js/runtime-main.e85fbf6e.js.map",
+    "static/js/2.d67a4b70.chunk.js": "/cv-aymen/static/js/2.d67a4b70.chunk.js",
+    "static/js/2.d67a4b70.chunk.js.map": "/cv-aymen/static/js/2.d67a4b70.chunk.js.map",
+    "index.html": "/cv-aymen/index.html",
+    "precache-manifest.7414c7d74d8ac8da737fea9e1e4687d8.js": "/cv-aymen/precache-manifest.7414c7d74d8ac8da737fea9e1e4687d8.js",
+    "service-worker.js": "/cv-aymen/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cv-aymen/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d67a4b70.chunk.js.LICENSE.txt": "/cv-aymen/static/js/2.d67a4b70.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/cv-aymen/static/media/profile.7a4e1c77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e85fbf6e.js",
+    "static/js/2.d67a4b70.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ba827ee8.chunk.js"
+  ]
+}
